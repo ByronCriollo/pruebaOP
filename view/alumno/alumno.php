@@ -1,7 +1,7 @@
-<h1>ByromCriollo</h1>
+<h1>Byron_Criollo</h1>
 
 <div>
-    <a href="?c=Alumno&a=Crud">Nuevo alumno</a>
+    <a href="?c=Alumno&=Crud">Nuevo alumno</a>
 </div>
 
 <table>
